@@ -1,0 +1,38 @@
+.Reddy {
+  background: #333;
+  color: #fff;
+  overflow: auto;
+  list-style-type: none;
+}
+.Reddy li {
+  float: left;
+}
+
+.Reddy li a {
+  padding: 10px 10px;
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+#Reddy1 {
+  text-align: center;
+  padding: 200px;
+  background: url("https://www.stockvault.net/data/2015/06/30/174251/thumb16.jpg");
+  color: #fff;
+}
+
+.Reddy3 h1 {
+  padding: 80px 85px;
+  float: left;
+}
+.Speakers img {
+  padding: 10px 10px;
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  overflow: auto;
+  list-style-type: none;
+}
